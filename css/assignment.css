@@ -1,0 +1,30 @@
+h1{display: inline-block;
+    border-style: solid;
+    border-width: 6px 12px 20px 40px;
+    font-size: 80px;
+    border-radius: 10px 20px;
+    border-color: orange green blue grey;
+    background-color: yellow;
+    color: blue;
+    padding: 50px 100px;
+    margin: 150px;
+}
+ul li{
+    border-style: solid;
+    border-width: 6px 12px 20px 40px;
+    border-radius: 10px 20px;
+    border-color: red blue pink aqua;
+    visibility: hidden;
+    
+}
+
+table{
+    border-style: solid black;
+    border-width: 6px 12px 20px 40px;
+    border-radius: 10px 20px;
+    border-collapse: collapse;
+    
+}
+th{
+    visibility: hidden;
+}

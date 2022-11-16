@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: darkmagenta;
+    font-size: 40px;
+    color: aliceblue;
+}
+.Ritu{
+position: absolute;
+
+}
+.img{
+    position: absolute;
+    top: 600px;
+}
