@@ -1,0 +1,31 @@
+.Ritu{
+    height: 900px;
+    width: 800px;
+    background-color: brown;
+    margin: auto;
+    margin-top: 65px;
+border: 2px solid black;
+border-radius: 25px;
+
+}
+.Box2{
+    position: absolute;
+    top: 150px;
+    height: 740px;
+    width: 800px;
+    
+           
+}
+.gallery{   
+    background-color: yellow;
+    height: 740px;
+    width: 500px;
+    float: left;
+  
+}
+.aside{
+        height:740px;
+    width:300px ;
+    float: right;
+        
+}
