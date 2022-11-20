@@ -5,7 +5,7 @@
     margin: auto;
     margin-top: 65px;
 border: 2px solid black;
-border-radius: 25px;
+border-radius: 30px;
 
 }
 .Box2{
@@ -27,5 +27,6 @@ border-radius: 25px;
         height:740px;
     width:300px ;
     float: right;
+    
         
 }
