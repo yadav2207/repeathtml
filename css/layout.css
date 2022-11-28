@@ -1,0 +1,102 @@
+.main{
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid black;
+}
+.header{
+    height: 200px;
+    width: 100%;
+    background-color: coral;
+    display: flex;
+}
+.header2{
+    display: block;
+    background-color: aquamarine;
+    height: 200px;
+    width: 100%;
+    display: block;
+}
+.herosec{
+    height: 100px;
+    width: 100%;
+    background-color: chartreuse;
+    display: block;
+}
+.time{
+    background-color: mediumpurple;
+    height: 100px;
+    width: 50%;
+}
+.menu{
+    height: 100px;
+    width: 100%;
+    background-color: green;  
+}
+
+.logo{
+    height: 200px;
+    width: 30%;
+    background-color:magenta ;
+}
+.container{
+    height: 700px;
+    width: 100%;
+    background-color: bisque;
+    display: flex;}
+    .first{
+        height: 600px;
+        width: 18%;
+        margin-top: 50px;
+        margin-left: 30px;
+        background-color: darkblue;
+    }
+    .second{
+                   height: 600px;
+            width: 18%;
+            margin-top: 50px;
+            margin-left: 40px;
+            background-color: darkmagenta;
+        }
+        .third{
+            height: 700px;
+            width: 2px;
+            background-color: black;
+            margin-left: 40px;       }
+            .table{
+                border: 1px solid black;
+                width:81% ;
+                height: 696px;
+                float: left;
+            background-color:floralwhite;}
+            .sub{
+                border: 1px solid black;
+                width:70% ;
+                height: 100px;
+                margin-top: 20px;
+                margin-left: 15%;
+                border: double;
+            }
+            .class{
+                border: 1px solid black;
+                width: 35%;
+                height:500px; 
+                margin-left:10% ;
+                margin-top: 3%;
+                float: left;
+                border: double;
+            } 
+            .sector{
+                border: 1px solid black;
+                width: 35%;
+                height: 500px;
+                margin-left: 55%;
+                margin-top: 3%;
+                border: double;
+                
+                }                  
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: blueviolet;
+}
