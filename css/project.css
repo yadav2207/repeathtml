@@ -1,0 +1,70 @@
+.Main{
+    height: 1000px;
+    width: 100%;
+    background-color: darkslateblue;
+    border: 5px solid ;
+    margin: 0px;
+    padding: 5px;
+}
+.menu{
+    background-color: indigo;
+    height: 80px;
+    width: 60%;
+    display: flex;
+    margin-left: 800px;
+}
+.sub-menu{
+    display: none;
+    }
+.menu ul li:hover .sub-menu{
+    display: block;
+    position: absolute;
+    background-color: rgb(0,100,0);
+    position: absolute;
+}
+.menu ul li:hover .sub-menu ul li{
+    border-bottom: 1px #fff;
+    background: transparent;
+    border-radius: 0;
+    display: block;
+    margin: 25px;
+}
+.menu ul li:hover .sub-menu ul li:last-child{
+    border-bottom: none;
+}
+ul li{
+    color: yellow;
+    font-size: 25px;
+display: inline;
+margin: 75px;
+}
+.img{
+height: 40px;
+}
+.laptop{
+    height: 400px;
+    width: 500px;
+}
+.class{
+    margin-top:300px;
+    margin-left: 300px;   
+    position: absolute; 
+    top: 200px; 
+    margin-left: 1300PX;
+
+}
+P{
+    font-size: 30PX;
+    margin-left: 1500PX;
+    margin-top: 50PX;
+    position: absolute; 
+    top: 350px;
+    color: orange;
+}
+h1{
+    font-size: 50PX;
+    margin-left: 1500PX;
+    position: absolute; 
+    top: 300px;
+    color:orange;
+}

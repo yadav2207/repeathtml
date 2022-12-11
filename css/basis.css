@@ -1,0 +1,179 @@
+.main{
+    height: 1100px;
+    width: 100%;
+    background-color: bisque;
+flex-wrap: wrap;    
+}
+.header{
+    height: 300px;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    
+}
+.logo{
+    height: 300px;
+    width: 30%;
+    background-color: coral;
+    
+}
+.menu{
+    width: 70%;
+    height: 300px;
+    background-color: brown;
+    float: right;
+    display: flex;
+}
+.time{
+    height:150px ;
+    width: 100%;
+    background-color: chartreuse;
+    
+}
+.container{
+height: 800px;
+width: 100%;
+background-color: beige;
+margin: 5px;
+padding: 4px;
+display: flex;
+flex-direction: column;
+}
+.number{
+    height: 450px;
+    width: 100%;
+    background-color: burlywood;
+    display: flex;
+    
+}
+.one{
+    height: 450px;
+    width: 35%;
+    background-color: blueviolet;  
+    border-radius: 15px;  
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.seven{
+background-color: yellow;
+flex-grow: 2;
+margin-top: 5px;
+border-radius: 40px;
+}
+.eight{
+background-color: lawngreen;
+flex-grow: 2;
+margin-top: 5px;
+border-radius: 40px;
+
+}
+.nine{
+background-color: tomato;
+flex-grow: 2;
+margin-top: 5px;
+border-radius: 40px;
+margin-bottom: 20px;
+}
+.two{
+    height: 450px;
+    width: 35%;
+    background-color: forestgreen;
+    margin-left: 20px;  
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.ten{
+    background-color: yellow;
+    flex-grow: 2;
+    margin-top: 5px;
+    border-radius: 40px;
+    margin-bottom: 20px;
+    margin-left: 8px;
+
+    }
+    .eleven{
+    background-color: lawngreen;
+    flex-grow: 2;
+    margin-top: 5px;
+    border-radius: 40px;
+    margin-bottom: 20px;
+    margin-left: 8px;
+
+    }
+    .twelve{
+    background-color: tomato;
+    flex-grow: 2;
+    margin-top: 5px;
+    border-radius: 40px;
+    margin-bottom: 20px;
+    margin-left: 8px;
+    }
+.Three{
+    height: 450px;
+    width: 35%;
+    background-color: darkmagenta;  
+    margin-left:20px ;
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+.two-two{
+    background-color: hotpink;
+    height: 100px;
+    width: 100%;
+    border-radius: 30px;
+    
+    
+}
+.two-four{
+    background-color: coral;
+    height: 330px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+  
+    
+}
+.gun{
+background-color: red;
+flex-grow: 2;
+}
+.run{
+background-color: black;
+flex-grow: 2;
+
+}
+.second{
+    height: 350px;
+    width: 100%;
+    background-color: gold;
+display: flex;
+padding: 5px;
+}
+.four{
+flex-grow: 2;
+    background-color: greenyellow;
+    border-radius:100px ;
+    margin-left: 20px;
+}
+.five{
+    flex-grow: 2;
+    background-color: coral;
+    border-radius:100px ;
+    margin-left: 20px;
+
+}
+.six{
+    flex-grow:2;
+    background-color: navy;
+    border-radius:100px ;
+    margin-left: 20px;
+
+}
+.footer{
+    height: 200px;
+    background-color: dodgerblue;
+}
